@@ -5,6 +5,7 @@ import com.salesianostriana.dam.ejercicioEvaluacion.Model.Museos;
 import com.salesianostriana.dam.ejercicioEvaluacion.Service.MuseoService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.media.Schema;
+import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
